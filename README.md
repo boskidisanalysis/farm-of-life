@@ -3,13 +3,6 @@
 ## **Overview**
 Farm of Life is a unique take on **Conway’s Game of Life**, where the evolving grid transforms into a **farm-like environment** with **wheat, flowers, and a farmer agent**. The farmer, trained using **reinforcement learning (PPO, A2C, DQN)**, learns to optimize the farm’s growth.
 
-# 🌾 Farm of Life – A Conway’s Game of Life with a Farm Twist 🌱
-
-## **📊 Performance Results**
-Our trained **Reinforcement Learning (RL) agents** significantly outperform the **Random Agent**, confirming that **training improves farming strategies**.
-
-# 🌾 Farm of Life – A Conway’s Game of Life with a Farm Twist 🌱
-
 ## **📊 Performance Results**
 Our trained **Reinforcement Learning (RL) agents** significantly outperform the **Random Agent**, proving that **learning-based strategies enhance farming efficiency**. 🌟
 
